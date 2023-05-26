@@ -6,8 +6,6 @@
 <div align="center">
 
 [Live](https://catherineisonline.github.io/ip-address-tracker-frontendmentor/)
-| [Solution](https://www.frontendmentor.io/solutions/ip-address-tracker-02_5ChONI)
-| [Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
 
